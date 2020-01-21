@@ -29,7 +29,6 @@ public class Solution{
 				+ final_exam * 0.45
 				+ sub * 0.2;
 				
-				
 				stu_num++;
 			}
 			
